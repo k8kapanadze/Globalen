@@ -1,22 +1,22 @@
 export const ASSETS = {
   // LOGO
-  LOGO: "input_file_4.png", 
+  LOGO: "https://i.postimg.cc/85M0fP8p/logo.jpg", 
 
   // HERO 1 (ლონდონი/ბიგ ბენი)
-  HERO_1: "input_file_3.png",
+  HERO_1: "https://i.postimg.cc/mD8XyX8k/hero-bg.jpg",
 
-  // HERO 2 (ოქსფორდი/უნივერსიტეტი - სტუდენტები Oxford-ის ჰუდებით)
-  HERO_2: "input_file_8.png",
+  // HERO 2 (ოქსფორდი/უნივერსიტეტი)
+  HERO_2: "https://i.postimg.cc/7Z0nZzY8/pic1.jpg",
 
-  // HERO 3 (ევროპარლამენტი - სტუდენტები ევროკავშირის დროშასთან)
-  HERO_3: "input_file_5.png",
+  // HERO 3 (ევროპარლამენტი)
+  HERO_3: "https://i.postimg.cc/XvG6H6m1/pic3.jpg",
 
   // MISSION (ინტერვიუ/ტელევიზია)
-  MISSION: "input_file_6.png",
+  MISSION: "https://i.postimg.cc/L5Xm8n0C/pic2.jpg",
 
-  // ADDITIONAL IMAGES FOR GALLERY/SECTIONS
-  ACADEMIC_DEBATE: "input_file_2.png",
-  CONFERENCE_HALL: "input_file_1.png",
-  LARGE_GROUP: "input_file_7.png",
-  STUDENT_CIRCLE: "input_file_0.png",
+  // ADDITIONAL IMAGES FOR GALLERY
+  ACADEMIC_DEBATE: "https://i.postimg.cc/XvG6H6m1/pic3.jpg", // ევროპარლამენტის ფოტო
+  CONFERENCE_HALL: "https://i.postimg.cc/mD8XyX8k/hero-bg.jpg", 
+  LARGE_GROUP: "https://i.postimg.cc/7Z0nZzY8/pic1.jpg",
+  STUDENT_CIRCLE: "https://i.postimg.cc/L5Xm8n0C/pic2.jpg",
 };
